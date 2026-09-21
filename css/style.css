@@ -1,7 +1,8 @@
 /* body text and font */
 body {
   margin: 0;
-  font-family: ;
+  /*changed font style*/
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   /*color for text at bottom reflection*/
   color: #680eb6;
   line-height: 1.5;
